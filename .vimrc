@@ -51,6 +51,8 @@ else
 endif
 
 call vundle#rc()
+"Bundle "Valloric/YouCompleteMe"
+
 Bundle "gmarik/vundle"
 
 
